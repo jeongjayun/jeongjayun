@@ -23,14 +23,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=SPRING&logoColor=white" /> <!--스프링-->
 
   **📊 DataBase**<br>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle SQL&logoColor=white" /> <!--오라클-->
+  <img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat&logo=Oracle&logoColor=white" /> <!--오라클-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /> <!--MySQL-->
   
   **🛠️ Tools**<br>
-  <img src="https://img.shields.io/badge/eclipseide-000000?style=flat&logo=Eclipse IDE&logoColor=white" /> <!--이클립스-->
-  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" /> <!--인텔리제이-->
-  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" /> <!--비주얼 스튜디오 코드-->
-  <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white" /> <!--톰캣-->
+  <img src="https://img.shields.io/badge/Eclipse IDE-000000?style=flat&logo=eclipseide&logoColor=white" /> <!--이클립스-->
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white" /> <!--인텔리제이-->
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> <!--비주얼 스튜디오 코드-->
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" /> <!--톰캣-->
 
   **💻 OS**<br>
   <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white" /> <!--Mac-->

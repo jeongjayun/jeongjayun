@@ -39,8 +39,6 @@ Here are some ideas to get you started:
   
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1252564)](https://solved.ac/1252564)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=1252564&theme=warm)
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongjayun%2Fhit-counter&count_bg=%23252525&title_bg=%23252525&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
